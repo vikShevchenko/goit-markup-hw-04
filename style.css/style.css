@@ -408,6 +408,9 @@ ul {
   fill: var(--logo-color);
 
 }
+.wite{
+  fill: var(--background-main);
+}
 /*------------------------------------------------------------*/
 .partners-list{
   display: flex;
